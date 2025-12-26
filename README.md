@@ -1,16 +1,6 @@
 
 # Dotfiles
 
-
-![GitHub stars](https://img.shields.io/github/stars/rafakee/dotfiles?style=social)
-
-![GitHub forks](https://img.shields.io/github/forks/rafakee/dotfiles?style=social)
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-<!--- ![GitHub license](https://img.shields.io/github/license/rafakee/dotfiles?style=flat-square) -->
-
-
 <div  align="center">
 
 <img  src="https://raw.githubusercontent.com/rafakee/dotfiles/refs/heads/master/screenshot.png"  alt="preview"  width="800px"/>
