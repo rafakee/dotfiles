@@ -13,7 +13,7 @@
 
 <div  align="center">
 
-<img  src=""  alt="preview"  width="800px"/>
+<img  src="https://raw.githubusercontent.com/rafakee/dotfiles/refs/heads/master/screenshot.png"  alt="preview"  width="800px"/>
 
 </div>
 
@@ -113,6 +113,8 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 Feito com ❤ por @rafakee
+---
+
 Obrigado por ter lido até aqui! Toma um cookie 🍪
 
 <div  align="center">
