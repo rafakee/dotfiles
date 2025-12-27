@@ -19,7 +19,7 @@ Estou disponibilizando essa coleção de dotfiles para proporcionar um visual Cy
 - ![#180007](https://placehold.co/15x15/180007/180007.png) `#180007`
 
 
-**Environment:**
+## Environment
 
 - Arch Linux
 
