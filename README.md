@@ -95,6 +95,15 @@ stow  rofi  # Para configur o Rofi
 `Super + Shift + P` -> Captura regiao da tela 
 
 
+## Ajuda
+
+Caso o stow não funcione, execute este comando para definir o diretório home como destino padrão
+
+```bash
+echo "--target=$HOME" > ~/.stowrc
+```
+
+
 ## Licença
 
   
